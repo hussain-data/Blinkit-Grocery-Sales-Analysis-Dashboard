@@ -1,4 +1,5 @@
 # Blinkit-Grocery-Sales-Analysis-Dashboard
+![image alt]
 
 ---
 
