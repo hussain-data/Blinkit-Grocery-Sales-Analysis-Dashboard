@@ -1,5 +1,5 @@
 # Blinkit-Grocery-Sales-Analysis-Dashboard
-![image alt](https://github.com/hussain-data/Blinkit-Grocery-Sales-Analysis-Dashboard/blob/b401c3ebb8512363b3de2bc39da97a398066f35b/blinkit.pbix)
+![Blinkit-Grocery-Sales-Analysis-Dashboard](https://github.com/hussain-data/Blinkit-Grocery-Sales-Analysis-Dashboard/blob/b401c3ebb8512363b3de2bc39da97a398066f35b/blinkit.png)
 
 ---
 
